@@ -110,12 +110,3 @@ Label encoding for certain columns that needs to be encoded
 <li>Checking evaluation matrix</li>
 <li>Comparing the model with the best accuracy score</li>
 <ul>
-
-## Authors
-
-@Kaaviasudhan
-
-## Version History
-
-* 0.1
-    * Initial Release
